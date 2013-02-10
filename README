@@ -1,0 +1,6 @@
+racf.pl
+=======
+
+Description:
+Script to parse a RACF databse file.  This file is the output
+of the IRRDBU00 command.
